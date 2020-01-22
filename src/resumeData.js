@@ -4,8 +4,6 @@ let resumeData = {
     "lastname":"Chinna Pullaiah",
     "role": "Software Engineer and Full Stack Developer",
     "linkedinId":"https://www.linkedin.com/in/sumanthreddy29/",
-    "skypeid": "Your skypeid",
-    "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
     "socialLinks":[
         {
           "name":"linkedin",
@@ -23,9 +21,9 @@ let resumeData = {
           "className":"fa fa-twitter"
         }
       ],
-    "aboutme":"I am currently pursing my master's at Georgia State Univerity and my B.Tech from VNR Vignana Jyothi Institute of Engineering & Technology. I am a self taught Full Stack Developer. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
+    "aboutme":"I am currently pursing my master's at Georgia State Univerity and my B.Tech from VNR Vignana Jyothi Institute of Engineering & Technology. I am a self taught Full Stack Developer.",
     "address":"Atlanta,Georgia,USA",
-    "website":"https://sumanthreddych.com",
+    "website":"https://sumanthreddy.herokuapp.com/",
     "education":[
       {
         "UniversityName":"Georgia State University",
@@ -83,7 +81,7 @@ let resumeData = {
       }
     ],
     "skillsDescription":"Your skills here",
-    "skills":["HTML","CSS","Java","SQL","Python","MySQL","MongoDB","NodeJs","ReactJs","ExpressJS","Spring","Spring Boot"],
+    "skills":["HTML","CSS","Java","SQL","Python","MySQL","MongoDB","NodeJs","ReactJs","ExpressJS","Spring","Spring Boot","Jenkins","CI/CD","Postman","SOAP","REST","J2EE","Heroku"],
     "portfolio":[
       {
         "name":"Relation Algebra Interpreter",
@@ -121,17 +119,8 @@ let resumeData = {
         "description":["Devised a Web application for students to predict bachelor’s colleges based on Rank and major of study."],
         "Stack":"HTML, CSS and Wamp (PHP) server (for local server and database Connectivity)"
       }
-    ],
-    "testimonials":[
-      {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
-      },
-      {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
-      }
     ]
+
   }
   
   export default resumeData

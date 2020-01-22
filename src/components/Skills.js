@@ -29,7 +29,7 @@ export default  class Skills extends Component {
  resumeData.skills && resumeData.skills.map((item) => {
                     return(
                       <div className="progress">
-<CircularProgressbar value="100" text={item} />;
+<CircularProgressbar value="100" text={item} />
                       </div>
                     )
  })
