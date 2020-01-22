@@ -1,5 +1,4 @@
 let resumeData = {
-    "imagebaseurl":"https://sumanthreddy",
     "firstname": "Sumanth Reddy",
     "lastname":"Chinna Pullaiah",
     "role": "Software Engineer and Full Stack Developer",
@@ -21,9 +20,10 @@ let resumeData = {
           "className":"fa fa-twitter"
         }
       ],
-    "aboutme":"I am currently pursing my master's at Georgia State Univerity and my B.Tech from VNR Vignana Jyothi Institute of Engineering & Technology. I am a self taught Full Stack Developer.",
+    "aboutme":"I am currently pursing my master's at Georgia State University and my B.Tech from VNR Vignana Jyothi Institute of Engineering & Technology. I am a self taught Full Stack Developer.",
     "address":"Atlanta,Georgia,USA",
     "website":"https://sumanthreddy.herokuapp.com/",
+    "emailId":"sumanthreddy_ch@outlook.com",
     "education":[
       {
         "UniversityName":"Georgia State University",
